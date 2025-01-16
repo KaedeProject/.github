@@ -4,8 +4,12 @@
 </p>
 
 # Language
--Python
--Ruby
--Golang
--Rust
--JavaScript
+- Python
+- Ruby
+- Golang
+- Rust
+- JavaScript
+
+# Tool
+- Cursor
+- Vscode
