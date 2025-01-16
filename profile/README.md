@@ -2,3 +2,10 @@
 <p align="center">
   <em>Developer by kaede</em>
 </p>
+
+# Language
+-Python
+-Ruby
+-Golang
+-Rust
+-JavaScript
