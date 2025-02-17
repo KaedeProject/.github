@@ -9,7 +9,7 @@
 - Golang
 - Rust
 - JavaScript
+- TypeScript
 
 # Tool
 - Cursor
-- Vscode
